@@ -1,1 +1,1 @@
-shell permision
+readmi
